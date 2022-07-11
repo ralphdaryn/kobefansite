@@ -1,0 +1,84 @@
+ul {
+    list-style: none;
+    font-size: 2rem;
+    font-family: 'Montserrat';
+}
+
+.logo {
+    height: 150px;
+    width: 200px;
+}
+
+.fansite {
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-family: 'Roboto Slab';
+}
+
+.navigation {
+    display: flex;
+    background-color: white;
+}
+
+.navlink {
+    display: inline-flex;
+    margin-left: auto;
+}
+
+.navlabel {
+    padding: 25px;
+}
+
+.pic-1 {
+    width: 50%;
+}
+
+.quote {
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Montserrat';
+}
+
+.header {
+    display: flex;
+}
+
+.mamba-quote {
+    background-color: black;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+    padding-top: 50px;
+}
+
+.pic {
+    width: 30%;
+}
+
+.collage {
+    text-align: center;
+}
+
+.bio-text {
+    font-size: 2.2rem;
+    padding-right: 20px;
+}
+
+.biography {
+    display: flex;
+    justify-content: center;
+    padding: 100px 50px;
+}
+
+.trophy {
+    height: 200px;
+    width: 200px;
+    padding-left: 100px;
+}
+
+.stats {
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
